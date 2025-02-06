@@ -160,6 +160,8 @@ dependencies = [
 [[package]]
 name = "yabai"
 version = "0.5.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "689e0c39ba18d3835bd7dde0d3f3f5fce65b82d8d959214171113d6eaac45b14"
 dependencies = [
  "anyhow",
  "byteorder",
